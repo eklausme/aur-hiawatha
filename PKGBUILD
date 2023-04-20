@@ -6,7 +6,7 @@
 
 pkgname=aur-hiawatha
 opkgname=hiawatha
-pkgver=11.3
+pkgver=11.4
 pkgrel=1
 pkgdesc="Secure and advanced webserver"
 url="https://www.hiawatha-webserver.org/"
@@ -25,7 +25,7 @@ source=("https://www.hiawatha-webserver.org/files/$opkgname-$pkgver.tar.gz"
         'hiawatha.service'
         'lefh-renew.service'
         'lefh-renew.timer')
-sha256sums=('d564349661bf86005cea5b0697183bcf61802ec3d53722746474ef7e05a6385a'
+sha256sums=('edda099e7ecf8c126af1e04e1e3e10835a9d5f6f207359837328dd28d2ce998c'
             '4671d2586cbe3cd6497b16ff422c6143cdab40641ef3c9c4988c478351a8f5e7'
             'b5a2671703b52eec376cfc4697b86aafa4f7fdd9b2b9203798e2117770bafa53'
             'db1d647d86370583c24ae7a37feab78e3f0015d441ff5bc8f9b32e1a91ec4c8e'
